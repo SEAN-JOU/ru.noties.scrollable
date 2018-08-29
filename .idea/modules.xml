@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\NB004\Downloads\ToRingLibrarySample-master\ToRingLibrarySample-master\ru.noties.scrollable\app\app.iml" filepath="C:\Users\NB004\Downloads\ToRingLibrarySample-master\ToRingLibrarySample-master\ru.noties.scrollable\app\app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ru.noties.scrollable.iml" filepath="$PROJECT_DIR$/ru.noties.scrollable.iml" />
+      <module fileurl="file://C:\Users\NB004\Downloads\ToRingLibrarySample-master\ToRingLibrarySample-master\ru.noties.scrollable\ru.noties.scrollable.iml" filepath="C:\Users\NB004\Downloads\ToRingLibrarySample-master\ToRingLibrarySample-master\ru.noties.scrollable\ru.noties.scrollable.iml" />
+    </modules>
+  </component>
+</project>
